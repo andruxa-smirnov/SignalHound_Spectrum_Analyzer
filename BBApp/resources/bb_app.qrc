@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style_sheet_dark.css</file>
+        <file>color_spectrogram.png</file>
+        <file>playback/play.png</file>
+        <file>playback/record.png</file>
+        <file>playback/stop.png</file>
+        <file>playback/pause.png</file>
+        <file>playback/rewind.png</file>
+        <file>playback/skip_previous.png</file>
+        <file>playback/skip_next.png</file>
+        <file>playback/time.png</file>
+        <file>icons/check_select.png</file>
+        <file>icons/collapse-down.png</file>
+        <file>icons/collapse-right.png</file>
+        <file>icons/down-arrow.png</file>
+        <file>icons/minus.png</file>
+        <file>icons/plus.png</file>
+        <file>style_sheet_light.css</file>
+        <file>icons/check_select-light.png</file>
+        <file>icons/collapse-down-light.png</file>
+        <file>icons/collapse-right-light.png</file>
+        <file>icons/down-arrow-light.png</file>
+        <file>icons/minus-light.png</file>
+        <file>icons/plus-light.png</file>
+        <file>icons/up-arrow-light.png</file>
+        <file>style_sheet_blue.css</file>
+        <file>icons/icon_continuous.png</file>
+        <file>icons/icon_single.png</file>
+    </qresource>
+</RCC>
